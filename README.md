@@ -1,4 +1,6 @@
-## Opa Dev tudo bom? Gabriel por aqui!
+<h1 align="center">
+  <img scr="" widht="40"> Opa Dev tudo bom? Gabriel por aqui! <img scr="" widght"40"
+</h1>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bielxasa&show_icons=dark&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -6,6 +8,7 @@
 </div>
 
 ## Codar é uma maneira de pensar.
+
 <div style="display: flex; justify-content: space-between;"> <br>
   <img align="left"height="150" alt="coding-time" src="code.gif">
   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +19,7 @@
 
 ## Redes sociais
 <div>
-  <a href = "mailto: biel.csantos57@gmail.com">
+  <a href = "mailto: contatobielxasa@hotmail.com">
     <img width="30" src="gmail.svg">
   </a>
   <a href = "https://www.linkedin.com/in/gabriel-santos-informatica">
