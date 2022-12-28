@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img scr="" widht="80"> Opa Dev tudo bom? Gabriel por aqui! <br><img scr="" widght"40"
+  <img scr="" widht="30"> Opa Dev tudo bom? Gabriel por aqui! <br><img scr="" widght"40"
 </h1>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bielxasa&show_icons=dark&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielxasa&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Bielxasa&show_icons=dark&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielxasa&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 ## Codar é uma maneira de pensar.
