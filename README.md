@@ -4,7 +4,7 @@
 
 
 
-## Codar é uma maneira de pensar.
+## Codar é uma maneira de pensar, é dar vida a sua imaginação.
 
 <div style="display: flex; justify-content: space-between;"> <br>
   <img align="center"height="150" alt="coding-time" src="code.gif">
