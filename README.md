@@ -1,8 +1,9 @@
 <h1 align="center">
   <img scr="" widht="30"> Hi friend, I'm Gabriel! <br><img scr="" widght"40"
 </h1>
-
-
+  <a>ola</a>
+  <a></a>
+  <a></a>
 
 ## Codar é uma maneira de pensar, é dar vida a sua imaginação.
 
@@ -16,8 +17,7 @@
 
 ## Redes sociais
 <div> 
-  <a href="https://instagram.com/bielxasaofc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatobielxasa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/bielxasa]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bielxasa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/Bielxasa/Bielxasa/blob/output/github-contribution-grid-snake.svg)
