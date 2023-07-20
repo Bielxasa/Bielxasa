@@ -1,10 +1,7 @@
 <h1 align="center">
-  <img scr="" widht="30"> Hi friend, I'm Gabriel! <br><img scr="" widght"40"
+  <img scr="C:\Users\biel_\OneDrive\Imagens\server.webp" widht="30"> Hi friend, I'm Gabriel! <br><img scr="" widght"40"
 </h1>
-  <a>ola</a>
-  <a></a>
-  <a></a>
-
+ 
 ## Codar é uma maneira de pensar, é dar vida a sua imaginação.
 
 <div style="display: flex; justify-content: space-between;"> <br>
