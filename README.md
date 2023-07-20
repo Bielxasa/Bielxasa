@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img scr="" widht="30"> Opa Dev tudo bom? Gabriel por aqui! <br><img scr="" widght"40"
+  <img scr="" widht="30"> Hi friend, I'm Gabriel! <br><img scr="" widght"40"
 </h1>
 
 
