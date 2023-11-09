@@ -1,8 +1,9 @@
 <h1 align="center">
-  <img scr="C:\Users\biel_\OneDrive\Imagens\code.jpg" widht="30"> Hi friend, I'm Gabriel! <br><img scr="" widght"40"
+  <img scr="C:\Users\biel_\OneDrive\Imagens\code.jpg" widht="30"> Hey everyone. I'm Gabriel Santos! <br><img scr="" widght"40"
 </h1>
- 
-## Codar é uma maneira de pensar, é dar vida a sua imaginação.
+<body>
+  Codar é uma maneira de pensar, é dar vida a sua imaginação.
+</body> 
 
 <div style="display: flex; justify-content: space-between;"> <br>
   <p><strong>❣passion for computing </strong></p>
