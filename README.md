@@ -1,4 +1,4 @@
-## Olá eu sou a Gabriel Costa, seja bem vindo ao meu GitHub
+## Olá eu sou a Gabriel, seja bem vindo ao meu GitHub
 
 Veja abaixo algumas das tecnologias que eu utilizo nos meus projetos
 
