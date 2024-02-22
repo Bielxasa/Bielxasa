@@ -3,7 +3,7 @@
 ## My name is Gabriel Costa
 
 <div style="display: inline_block">
-  Veja abaixo algumas das tecnologias que eu utilizo nos meus projetos
+ Sou estudante de Análise e Desenvolvimento de Software, acompanhe um pouco dos meus projetos logo abaixo:
   <img>
 </div>
 <br>
