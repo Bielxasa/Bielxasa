@@ -3,8 +3,7 @@
 ## I'm Gabriel Costa
 
 <div style="display: inline_block">
- Sou estudante de Análise e Desenvolvimento de Software cursando o ultimo ano e buscando ainda mais conhecimento.
- Aqui irei compartilhar um pouco das minhas experiências acadêmicas e também autodidatas. Acompanhe um pouco dos meus projetos logo abaixo:
+ I'm a Software Analysis and Development student in my final year and looking for even more knowledge. Here I will share some of my academic and self-taught experiences. Follow some of my projects below:
   <img>
 </div>
 <br>
