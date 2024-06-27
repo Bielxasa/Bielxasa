@@ -1,6 +1,6 @@
-<h1>Hey there 👍</h1>
+<h1>Hey there 🤙🏾✌🏾</h1>
 
-## My name is Gabriel Costa
+## I'm Gabriel Costa
 
 <div style="display: inline_block">
  Sou estudante de Análise e Desenvolvimento de Software cursando o ultimo ano e buscando ainda mais conhecimento.
