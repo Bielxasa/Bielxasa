@@ -3,7 +3,8 @@
 ## My name is Gabriel Costa
 
 <div style="display: inline_block">
- Sou estudante de Análise e Desenvolvimento de Software, acompanhe um pouco dos meus projetos logo abaixo:
+ Sou estudante de Análise e Desenvolvimento de Software cursando o ultimo ano e buscando ainda mais conhecimento.
+ Aqui irei compartilhar um pouco das minhas experiências acadêmicas e também autodidatas. Acompanhe um pouco dos meus projetos logo abaixo:
   <img>
 </div>
 <br>
@@ -19,7 +20,6 @@
 </div>
 
 ## 
-    - 📚 software engineering student
     - 💻 Passionate about web development
     - 💡  Love a good challenge
 <br>
