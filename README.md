@@ -1,6 +1,6 @@
-<h1>Hey there 🤙🏾✌🏾</h1>
+<h1>Hey everyone 🤙🏾✌🏾</h1>
 
-## I'm Gabriel Costa
+## I'm Gabriel Santos
 
 <div style="display: inline_block">
  I'm a Software Analysis and Development student in my final year and looking for even more knowledge. Here I will share some of my academic and self-taught experiences. Follow some of my projects below:
