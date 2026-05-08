@@ -1,22 +1,24 @@
-## Fala Pessoal! Meu nome é Gabriel e seja Bem-vindo(a) ao meu GitHub 👋
+## Olá
+# Sou Gabriel Santos👋
 
-<a>Abaixo estao algumas tecnologias que ja trabalhei e em breve vou postar os repositórios pra vocês.</a>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UNIP
+💻 Focado em desenvolvimento Back-end com Java
+🚀 Atualmente estudando Java, Spring Boot, APIs REST e Banco de Dados
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+Tenho experiência com suporte técnico e estou em transição para a área de desenvolvimento de software, buscando construir projetos práticos e evoluir constantemente minhas habilidades técnicas.
 
-##
+🛠 Tecnologias e Ferramentas
+☕ Java
+🧩 Spring Boot
+🎲 SQL / MySQL
+✏️ APIs REST
 
-<div> 
-  <a href="https://instagram.com/biel_xasa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorbielxasa@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bielxasa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!--
+📚 Atualmente estudando:
+* Arquitetura Back-end
+* Boas práticas de API REST
+* JPA / Hibernate
+* Testes automatizados
+🐳 Docker
+🎯 Objetivos
 
-<a></a>
+Busco minha primeira oportunidade como desenvolvedor Java Back-end ou estágio em desenvolvimento, onde eu possa aprender, contribuir e crescer profissionalmente.
